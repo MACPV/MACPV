@@ -1,5 +1,2 @@
-## Technologies
-  aqui van mis habilidades technologicas
-  
- ## Skill
-  aqui dice que ayudo a resovler problemas complejos
+  ## A ver si funciona
+    a ver
